@@ -1,3 +1,5 @@
 welcome to Devops!!!
 
 Welcome to amazon webservices!!!
+
+welcome to azure!!!
