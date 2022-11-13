@@ -1,1 +1,13 @@
 welcome to Devops!!!
+
+Welcome to amazon webservices!!!
+welcome to azureDevops!!!
+welcome to GCP!!!
+
+welcome to kubernetes!!
+
+
+welcome to ansible
+welcome to azurepipelines!!
+welcome to EKS!!
+Welcome AKS!!
