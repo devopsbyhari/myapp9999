@@ -1,7 +1,7 @@
 welcome to Devops!!!
 
 Welcome to amazon webservices!!!
-welcome to azure!!!
+welcome to azureDevops!!!
 welcome to GCP!!!
 
 welcome to kubernetes!!
