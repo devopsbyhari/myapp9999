@@ -1,1 +1,10 @@
 welcome to Devops!!
+
+
+GIT
+Maven
+Jenkins
+Docker
+kubernetes 
+Ansible 
+
