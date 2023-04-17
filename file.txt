@@ -11,3 +11,7 @@ welcome to ansible
 welcome to azurepipelines!!
 welcome to EKS!!
 Welcome AKS!!
+
+Welcome to AKS 
+Welcome to GCP
+Welcome to Oracle
