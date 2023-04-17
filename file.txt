@@ -12,5 +12,10 @@ welcome to azurepipelines!!
 welcome to EKS!!
 Welcome AKS!!
 
+
 data
 reovery
+Welcome to AKS 
+Welcome to GCP
+Welcome to Oracle
+
